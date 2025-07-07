@@ -1,4 +1,4 @@
-import '../assets/images/style.css';
+import './assets/images/style.css';
 import { validateCardNumber } from './cardValidator';
 import { getPaymentSystem } from './paymentSystem';
 
